@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://public.tableau.com/app/profile/yildiz3"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildiz3" alt="yildiz3" /> </p>
-[![website](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.linkedin.com/in/yildiz3/)
+<a href="https://www.kaggle.com/hseyinyildiz"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="668" height="258"> </a>
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
