@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://public.tableau.com/app/profile/yildiz3"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
 <a href="https://www.kaggle.com/hseyinyildiz"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
-<a href="https://www.sololearn.com/profile/25514262"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" decoding="async"  height="20"> </a>
+<a href="https://www.sololearn.com/profile/25514262"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildiz3" alt="yildiz3" /> </p>
 
 
