@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jack1634" alt="Jack1634" /> </p>
 
-
-
-
-##
-##
-<a> </a>
-
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
