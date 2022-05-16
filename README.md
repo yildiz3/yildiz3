@@ -89,8 +89,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yildiz3&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildiz3&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yildiz3&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/yildiz3/yildiz3/blob/output/github-contribution-grid-snake.svg" /></div>
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yildiz3&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/burakfly/yildiz3/blob/output/github-contribution-grid-snake.svg" /></div>
 **yildiz3/yildiz3** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
